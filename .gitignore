@@ -1,0 +1,27 @@
+# raw and intermediate data: never commit
+data/
+references/
+*.fastq.gz
+*.fq.gz
+*.sra
+*.bam
+*.bai
+*.bw
+*.bigwig
+
+# pipeline outputs: keep only final figures
+results/*
+!results/figures/
+
+# workflow and tool caches
+.snakemake/
+logs/
+.conda/
+
+# R / Python / OS clutter
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
