@@ -1,0 +1,13 @@
+sample	include	dataset	gsm	runs	layout	read_length	million_reads	instrument	cell_type	age	mark	replicate	control	title
+PDGFRa_P5_H4K8ac_rep1	yes	GSE240522	GSM7699378	SRR25596163	PAIRED	150	57.3	Illumina HiSeq 4000	PDGFRa	P5	H4K8ac	1	PDGFRa_P5_input_rep1	Neonatal oligodendrocyte progenitor cell biol rep 1 (P5)
+PDGFRa_P5_input_rep1	yes	GSE240522	GSM7699379	SRR25596162	PAIRED	150	68.4	Illumina HiSeq 4000	PDGFRa	P5	input	1		Neonatal oligodendrocyte progenitor cell input biol rep 1 (P5)
+PDGFRa_P5_H4K8ac_rep2	yes	GSE240522	GSM7699380	SRR25596161	PAIRED	150	75.0	Illumina HiSeq 4000	PDGFRa	P5	H4K8ac	2	PDGFRa_P5_input_rep2	Neonatal oligodendrocyte progenitor cell biol rep 2 (P5)
+PDGFRa_P5_input_rep2	yes	GSE240522	GSM7699381	SRR25596160	PAIRED	150	61.0	Illumina HiSeq 4000	PDGFRa	P5	input	2		Neonatal oligodendrocyte progenitor cell input biol rep 2 (P5)
+PDGFRa_P5_H4K8ac_rep3	yes	GSE240522	GSM7699382	SRR25596159	PAIRED	150	61.4	Illumina HiSeq 4000	PDGFRa	P5	H4K8ac	3	PDGFRa_P5_input_rep3	Neonatal oligodendrocyte progenitor cell biol rep 3 (P5)
+PDGFRa_P5_input_rep3	yes	GSE240522	GSM7699383	SRR25596158	PAIRED	150	70.0	Illumina HiSeq 4000	PDGFRa	P5	input	3		Neonatal oligodendrocyte progenitor cell input biol rep 3 (P5)
+PDGFRa_P60_H4K8ac_rep1	yes	GSE240522	GSM7699384	SRR25596157	PAIRED	150	48.7	Illumina HiSeq 4000	PDGFRa	P60	H4K8ac	1	PDGFRa_P60_input_rep1	Adult oligodendrocyte progenitor cell biol rep 1 (P60)
+PDGFRa_P60_input_rep1	yes	GSE240522	GSM7699385	SRR25596156	PAIRED	150	60.5	Illumina HiSeq 4000	PDGFRa	P60	input	1		Adult oligodendrocyte progenitor cell input biol rep 1 (P60)
+PDGFRa_P60_H4K8ac_rep2	yes	GSE240522	GSM7699386	SRR25596155	PAIRED	150	62.5	Illumina HiSeq 4000	PDGFRa	P60	H4K8ac	2	PDGFRa_P60_input_rep2	Adult oligodendrocyte progenitor cell biol rep 2 (P60)
+PDGFRa_P60_input_rep2	yes	GSE240522	GSM7699387	SRR25596154	PAIRED	150	65.0	Illumina HiSeq 4000	PDGFRa	P60	input	2		Adult oligodendrocyte progenitor cell input biol rep 2 (P60)
+PDGFRa_P60_H4K8ac_rep3	yes	GSE240522	GSM7699388	SRR25596153	PAIRED	150	68.1	Illumina HiSeq 4000	PDGFRa	P60	H4K8ac	3	PDGFRa_P60_input_rep3	Adult oligodendrocyte progenitor cell biol rep 3 (P60)
+PDGFRa_P60_input_rep3	yes	GSE240522	GSM7699389	SRR25596152	PAIRED	150	47.3	Illumina HiSeq 4000	PDGFRa	P60	input	3		Adult oligodendrocyte progenitor cell input biol rep 3 (P60)
