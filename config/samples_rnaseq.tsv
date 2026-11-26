@@ -1,0 +1,49 @@
+sample	include	dataset	gsm	runs	layout	read_length	million_reads	instrument	cell_type	age	treatment	genotype	replicate	title	note
+O4_P60_untreated_rep1	yes	GSE263808	GSM8199498	SRR28637459	PAIRED	150	37.4	Illumina NovaSeq X Plus	O4	P60	untreated	WT	1	Untreated O4+ aOPC rep1	
+O4_P60_untreated_rep2	yes	GSE263808	GSM8199499	SRR28637458	PAIRED	150	36.4	Illumina NovaSeq X Plus	O4	P60	untreated	WT	2	Untreated O4+ aOPC rep2	
+O4_P60_DMSO_rep1	yes	GSE263808	GSM8199500	SRR28637457	PAIRED	150	37.2	Illumina NovaSeq X Plus	O4	P60	DMSO	WT	1	DMSO O4+ aOPC rep1	
+O4_P60_DMSO_rep2	yes	GSE263808	GSM8199501	SRR28637456	PAIRED	150	48.8	Illumina NovaSeq X Plus	O4	P60	DMSO	WT	2	DMSO O4+ aOPC rep2	
+O4_P60_DMSO_rep3	yes	GSE263808	GSM8199502	SRR28637455	PAIRED	150	43.3	Illumina NovaSeq X Plus	O4	P60	DMSO	WT	3	DMSO O4+ aOPC rep3	
+O4_P60_DMSO_rep4	yes	GSE263808	GSM8199503	SRR28637454	PAIRED	150	45.8	Illumina NovaSeq X Plus	O4	P60	DMSO	WT	4	DMSO O4+ aOPC rep4	
+O4_P60_KATi_rep1	yes	GSE263808	GSM8199504	SRR28637453	PAIRED	150	46.5	Illumina NovaSeq X Plus	O4	P60	KATi	WT	1	KATi O4+ aOPC rep1	
+O4_P60_KATi_rep2	yes	GSE263808	GSM8199505	SRR28637452	PAIRED	150	48.2	Illumina NovaSeq X Plus	O4	P60	KATi	WT	2	KATi O4+ aOPC rep2	
+O4_P60_KATi_rep3	yes	GSE263808	GSM8199506	SRR28637451	PAIRED	150	58.6	Illumina NovaSeq X Plus	O4	P60	KATi	WT	3	KATi O4+ aOPC rep3	
+O4_P60_KATi_rep4	yes	GSE263808	GSM8199507	SRR28637450	PAIRED	150	42.0	Illumina NovaSeq X Plus	O4	P60	KATi	WT	4	KATi O4+ aOPC rep4	
+O4_P60_SUV420i_rep1	yes	GSE263808	GSM8199508	SRR28637449	PAIRED	150	55.2	Illumina NovaSeq X Plus	O4	P60	SUV420i	WT	1	SUV420i O4+ aOPC rep1	
+O4_P60_SUV420i_rep2	yes	GSE263808	GSM8199509	SRR28637448	PAIRED	150	56.3	Illumina NovaSeq X Plus	O4	P60	SUV420i	WT	2	SUV420i O4+ aOPC rep2	
+O4_P60_SUV420i_rep3	yes	GSE263808	GSM8199510	SRR28637447	PAIRED	150	52.0	Illumina NovaSeq X Plus	O4	P60	SUV420i	WT	3	SUV420i O4+ aOPC rep3	
+O4_P60_SUV420i_rep4	yes	GSE263808	GSM8199511	SRR28637446	PAIRED	150	50.0	Illumina NovaSeq X Plus	O4	P60	SUV420i	WT	4	SUV420i O4+ aOPC rep4	
+O4_P5_untreated_rep1	yes	GSE263808	GSM8199512	SRR28637445	PAIRED	150	41.6	Illumina NovaSeq X Plus	O4	P5	untreated	WT	1	Untreated O4+ nOPC rep1	
+O4_P5_untreated_rep2	yes	GSE263808	GSM8199513	SRR28637444	PAIRED	150	37.3	Illumina NovaSeq X Plus	O4	P5	untreated	WT	2	Untreated O4+ nOPC rep2	
+O4_P5_untreated_rep3	yes	GSE263808	GSM8199514	SRR28637443	PAIRED	150	45.1	Illumina NovaSeq X Plus	O4	P5	untreated	WT	3	Untreated O4+ nOPC rep3	
+O4_P5_DMSO_rep1	yes	GSE263808	GSM8199515	SRR28637442	PAIRED	150	39.1	Illumina NovaSeq X Plus	O4	P5	DMSO	WT	1	DMSO O4+ nOPC rep1	
+O4_P5_DMSO_rep2	yes	GSE263808	GSM8199516	SRR28637441	PAIRED	150	51.4	Illumina NovaSeq X Plus	O4	P5	DMSO	WT	2	DMSO O4+ nOPC rep2	
+O4_P5_DMSO_rep3	yes	GSE263808	GSM8199517	SRR28637440	PAIRED	150	53.2	Illumina NovaSeq X Plus	O4	P5	DMSO	WT	3	DMSO O4+ nOPC rep3	
+O4_P5_DMSO_rep4	yes	GSE263808	GSM8199518	SRR28637439	PAIRED	150	56.4	Illumina NovaSeq X Plus	O4	P5	DMSO	WT	4	DMSO O4+ nOPC rep4	
+O4_P5_DMSO_rep5	yes	GSE263808	GSM8199519	SRR28637438	PAIRED	150	51.7	Illumina NovaSeq X Plus	O4	P5	DMSO	WT	5	DMSO O4+ nOPC rep5	
+O4_P5_KATi_rep1	yes	GSE263808	GSM8199520	SRR28637437	PAIRED	150	34.5	Illumina NovaSeq X Plus	O4	P5	KATi	WT	1	KATi O4+ nOPC rep1	
+O4_P5_KATi_rep2	yes	GSE263808	GSM8199521	SRR28637436	PAIRED	150	46.8	Illumina NovaSeq X Plus	O4	P5	KATi	WT	2	KATi O4+ nOPC rep2	
+O4_P5_KATi_rep3	yes	GSE263808	GSM8199522	SRR28637435	PAIRED	150	41.7	Illumina NovaSeq X Plus	O4	P5	KATi	WT	3	KATi O4+ nOPC rep3	
+O4_P5_KATi_rep4	yes	GSE263808	GSM8199523	SRR28637434	PAIRED	150	50.6	Illumina NovaSeq X Plus	O4	P5	KATi	WT	4	KATi O4+ nOPC rep4	
+O4_P5_KATi_rep5	yes	GSE263808	GSM8199524	SRR28637433	PAIRED	150	39.8	Illumina NovaSeq X Plus	O4	P5	KATi	WT	5	KATi O4+ nOPC rep5	
+O4_P5_SUV420i_rep1	yes	GSE263808	GSM8199525	SRR28637432	PAIRED	150	59.3	Illumina NovaSeq X Plus	O4	P5	SUV420i	WT	1	SUV420i O4+ nOPC rep1	
+O4_P5_SUV420i_rep2	yes	GSE263808	GSM8199526	SRR28637431	PAIRED	150	38.7	Illumina NovaSeq X Plus	O4	P5	SUV420i	WT	2	SUV420i O4+ nOPC rep2	
+O4_P5_SUV420i_rep3	yes	GSE263808	GSM8199527	SRR28637430	PAIRED	150	52.6	Illumina NovaSeq X Plus	O4	P5	SUV420i	WT	3	SUV420i O4+ nOPC rep3	
+O4_P5_SUV420i_rep4	yes	GSE263808	GSM8199528	SRR28637429	PAIRED	150	46.6	Illumina NovaSeq X Plus	O4	P5	SUV420i	WT	4	SUV420i O4+ nOPC rep4	
+O4_P5_SUV420i_rep5	yes	GSE263808	GSM8199529	SRR28637428	PAIRED	150	50.2	Illumina NovaSeq X Plus	O4	P5	SUV420i	WT	5	SUV420i O4+ nOPC rep5	
+PDGFRa_P2_untreated_rep1	yes	GSE66047	GSM1613116	SRR1810037	PAIRED	51	71.4	Illumina HiSeq 2000	PDGFRa	P2	untreated	WT	1	P2 brain oligodendrocyte progenitor cells_RNASeq_n1	
+PDGFRa_P2_untreated_rep2	yes	GSE66047	GSM1613117	SRR1810038	PAIRED	51	73.3	Illumina HiSeq 2000	PDGFRa	P2	untreated	WT	2	P2 brain oligodendrocyte progenitor cells_RNASeq_n2	
+PDGFRa_P2_untreated_rep3	yes	GSE66047	GSM1613118	SRR1810039	PAIRED	51	73.6	Illumina HiSeq 2000	PDGFRa	P2	untreated	WT	3	P2 brain oligodendrocyte progenitor cells_RNASeq_n3	
+OL_P18_untreated_rep1	yes	GSE66047	GSM1613119	SRR1810040	PAIRED	51	91.4	Illumina HiSeq 2000	OL	P18	untreated	WT	1	P18 brain oligodendrocytes_RNASeq_n1	Plp1-GFP oligodendrocytes; lineage reference, not used in DE
+OL_P18_untreated_rep2	yes	GSE66047	GSM1613120	SRR1810041	PAIRED	51	71.3	Illumina HiSeq 2000	OL	P18	untreated	WT	2	P18 brain oligodendrocytes_RNASeq_n2	Plp1-GFP oligodendrocytes; lineage reference, not used in DE
+OL_P18_untreated_rep3	yes	GSE66047	GSM1613121	SRR1810042	PAIRED	51	79.7	Illumina HiSeq 2000	OL	P18	untreated	WT	3	P18 brain oligodendrocytes_RNASeq_n3	Plp1-GFP oligodendrocytes; lineage reference, not used in DE
+PDGFRa_P5_untreated_Dnmt1flox_rep1	no	GSE66047	GSM2083750	SRR3212794	PAIRED	101	23.9	Illumina HiSeq 2500	PDGFRa	P5	untreated	Dnmt1flox	1	P5 mouse Olig1+/+;Dnmt1flox/flox;Pdgfra-GFP OPC_n1	Dnmt1 sub-study; not part of this reanalysis
+PDGFRa_P5_untreated_Dnmt1flox_rep2	no	GSE66047	GSM2083751	SRR3212795	PAIRED	101	22.4	Illumina HiSeq 2500	PDGFRa	P5	untreated	Dnmt1flox	2	P5 mouse Olig1+/+;Dnmt1flox/flox;Pdgfra-GFP OPC_n2	Dnmt1 sub-study; not part of this reanalysis
+PDGFRa_P5_untreated_Dnmt1cKO_rep1	no	GSE66047	GSM2083752	SRR3212796	PAIRED	101	24.2	Illumina HiSeq 2500	PDGFRa	P5	untreated	Dnmt1cKO	1	P5 mouse Olig1cre/+;Dnmt1flox/flox;Pdgfra-GFP OPC_n1	Dnmt1 sub-study; not part of this reanalysis
+PDGFRa_P5_untreated_Dnmt1cKO_rep2	no	GSE66047	GSM2083753	SRR3212797	PAIRED	101	22.7	Illumina HiSeq 2500	PDGFRa	P5	untreated	Dnmt1cKO	2	P5 mouse Olig1cre/+;Dnmt1flox/flox;Pdgfra-GFP OPC_n2	Dnmt1 sub-study; not part of this reanalysis
+PDGFRa_P60_untreated_rep1	yes	GSE122446	GSM3466668	SRR8181235	PAIRED	101	43.2	Illumina HiSeq 2500	PDGFRa	P60	untreated	WT	1	P60 brain oligodendrocyte progenitor cells_RNASeq_n1 [pdgfra2mn1]	
+PDGFRa_P60_untreated_rep2	yes	GSE122446	GSM3466669	SRR8181236	PAIRED	101	39.8	Illumina HiSeq 2500	PDGFRa	P60	untreated	WT	2	P60 brain oligodendrocyte progenitor cells_RNASeq_n2 [pdgfra2mn2]	
+PDGFRa_P60_untreated_rep3	yes	GSE122446	GSM3466670	SRR8181237	PAIRED	101	40.6	Illumina HiSeq 2500	PDGFRa	P60	untreated	WT	3	P60 brain oligodendrocyte progenitor cells_RNASeq_n3 [pdgfra2mn3]	
+preOL_P60_untreated_rep1	yes	GSE122446	GSM3466671	SRR8181238	PAIRED	101	35.9	Illumina HiSeq 2500	preOL	P60	untreated	WT	1	P60 brain pre-myelinating oligodendrocytes_RNASeq_n1 [plp2mn1]	Plp1-GFP pre-myelinating OLs; lineage reference, not used in DE
+preOL_P60_untreated_rep2	yes	GSE122446	GSM3466672	SRR8181239	PAIRED	101	44.1	Illumina HiSeq 2500	preOL	P60	untreated	WT	2	P60 brain pre-myelinating oligodendrocytes_RNASeq_n2 [plp2mn2]	Plp1-GFP pre-myelinating OLs; lineage reference, not used in DE
+preOL_P60_untreated_rep3	yes	GSE122446	GSM3466673	SRR8181240	PAIRED	101	43.8	Illumina HiSeq 2500	preOL	P60	untreated	WT	3	P60 brain pre-myelinating oligodendrocytes_RNASeq_n3 [plp2mn3]	Plp1-GFP pre-myelinating OLs; lineage reference, not used in DE
